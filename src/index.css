@@ -1,0 +1,17 @@
+.selrow {
+  background: #608ff3;
+  color: aliceblue;
+}
+
+.antiselrow {
+  background: #fff;
+  color: black;
+}
+
+.anuncio {
+  font-size: 0.75rem;
+  margin: 0;
+  width: 11%;
+  display: inline-block;
+  text-align:center;
+}
